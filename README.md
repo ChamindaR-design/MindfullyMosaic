@@ -89,7 +89,7 @@ Bill Manager: https://github.com/user-attachments/assets/df9b237d-84b8-4dae-8228
 Mindful Meditation: https://github.com/user-attachments/assets/746152ee-6d1e-4ffe-83dd-5c8a4406343d
 Reflection Journal: https://github.com/user-attachments/assets/5deab8a3-f332-4d38-9e19-527d4e1f329d
 Mood Trends: https://github.com/user-attachments/assets/1d276d13-14a7-4f86-abb0-bc902fa0934f
-Apple Shoorter: https://github.com/user-attachments/assets/d2daed0e-32a7-4d74-8817-7f67c3190bb8
+Apple Shooter: https://github.com/user-attachments/assets/d2daed0e-32a7-4d74-8817-7f67c3190bb8
 Profile Settings: https://github.com/user-attachments/assets/f3a3cfd5-0a62-46b2-8838-b08001de46e0
 ```
 
@@ -138,7 +138,7 @@ Profile Settings: https://github.com/user-attachments/assets/f3a3cfd5-0a62-46b2-
 **Mood Trends**
 <img width="1390" height="795" alt="image" src="https://github.com/user-attachments/assets/1d276d13-14a7-4f86-abb0-bc902fa0934f" />
 
-**Apple Shoorter**
+**Apple Shooter**
 <img width="1390" height="795" alt="image" src="https://github.com/user-attachments/assets/d2daed0e-32a7-4d74-8817-7f67c3190bb8" />
 
 **Profile Settings**
