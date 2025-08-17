@@ -2,10 +2,20 @@
 
 # 🧘 MindfullyMosaic
 
-MindfullyMosaic is a personal finance, productivity, and mindfulness suite built in Python.  
-It was my original inspiration before creating the Flutter-based Humble Time Tracker.
+# 🧘 MindfullyMosaic
 
-This desktop app blends budgeting, bill tracking, journaling, guided meditation, and even a mini-game — all designed to support emotional pacing and intentional living.
+![MIT Licence](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/built%20with-Python-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Status](https://img.shields.io/badge/status-archived-blue)
+
+MindfullyMosaic is a personal finance, productivity, and mindfulness suite built in Python.  
+It was the original inspiration behind the Humble Time Tracker — designed to support neurodivergent users with emotional pacing, offline privacy, and intentional living.
+
+This project blends budgeting, journaling, guided meditation, and task reflection into a calming desktop experience.  
+It was developed as a personal tool to anchor routines, reduce overwhelm, and foster mindful habits — especially for those navigating ADHD, anxiety, or sensory sensitivities.
+
+While no longer actively developed, MindfullyMosaic remains a meaningful milestone in my journey as a developer and accessibility advocate.
 
 ---
 # **🧩 Stage 2: Features Summary**
