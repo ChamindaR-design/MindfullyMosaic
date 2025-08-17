@@ -2,8 +2,6 @@
 
 # 🧘 MindfullyMosaic
 
-# 🧘 MindfullyMosaic
-
 ![MIT Licence](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/built%20with-Python-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
