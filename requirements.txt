@@ -1,0 +1,7 @@
+tk
+pygame
+pyttsx3
+matplotlib
+pandas
+bcrypt
+python-dotenv
