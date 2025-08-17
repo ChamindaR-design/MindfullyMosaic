@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.env
+
+# VS Code
+.vscode/
+.vs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs and temp
+*.log
+error_report.txt
+session_user.txt
+meditation_log.txt
