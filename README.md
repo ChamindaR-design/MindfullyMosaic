@@ -12,7 +12,6 @@ This project is released under the [MIT Licence](https://opensource.org/licenses
 - 🧘 [Stage 1: Title and Introduction](#-stage-1-title-and-introduction)
 - 🧩 [Stage 2: Features Summary](#-stage-2-features-summary)
 - 💻 [Stage 3: Tech Stack and Rationale](#-stage-3-tech-stack-and-rationale)
-- 🛠️ [Stage 3: Tech Stack and Rationale](🛠️stage-3-tech-stack-and-rationale)
 - 📦 [Stage 4: Installation Instructions](#-stage-4-installation-instructions)
 - 📷 [Stage 5: Screenshots and UI Overview](#-stage-5-screenshots-and-ui-overview)
 - 📜 [Stage 6: Backstory and Legacy](#-stage-6-backstory-and-legacy)
