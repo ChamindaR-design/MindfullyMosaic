@@ -9,14 +9,15 @@ This project is released under the [MIT Licence](https://opensource.org/licenses
 
 # 📚 Table of Contents
 
-- 🧘 [Stage 1: Title and Introduction](#stage-1-title-and-introduction)
-- 🧩 [Stage 2: Features Summary](#stage-2-features-summary)
-- 🛠️ [Stage 3: Tech Stack and Rationale](#stage-3-tech-stack-and-rationale)
-- 📦 [Stage 4: Installation Instructions](#stage-4-installation-instructions)
-- 📷 [Stage 5: Screenshots and UI Overview](#stage-5-screenshots-and-ui-overview)
-- 📜 [Stage 6: Backstory and Legacy](#stage-6-backstory-and-legacy)
-- 🧪 [Stage 7: Development Notes](#stage-7-development-notes)
-- 🪪 [Stage 8: Licence and Contribution](#stage-8-licence-and-contribution)
+- 🧘 [Stage 1: Title and Introduction](-stage-1-title-and-introduction)
+- 🧩 [Stage 2: Features Summary](-stage-2-features-summary)
+- 🛠️ [Stage 3: Tech Stack and Rationale](-stage-3-tech-stack-and-rationale)
+- 🛠️ [Stage 3: Tech Stack and Rationale](-Stage-3-tech-stack-and-rationale)
+- 📦 [Stage 4: Installation Instructions](-stage-4-installation-instructions)
+- 📷 [Stage 5: Screenshots and UI Overview](-stage-5-screenshots-and-ui-overview)
+- 📜 [Stage 6: Backstory and Legacy](-stage-6-backstory-and-legacy)
+- 🧪 [Stage 7: Development Notes](-stage-7-development-notes)
+- 🔑 [Stage 8: Licence and Contribution](-stage-8-licence-and-contribution)
 
 # **🧘 Stage 1: Title and Introduction**
 
@@ -95,19 +96,27 @@ This stack was chosen to keep the app fully offline, lightweight, and easy to ru
 
 ## 📷 Screenshots & UI Overview
 
-```markdown
-Settings: 👉 [Visit Site](https://github.com/user-attachments/assets/e220bfb8-0526-4994-97a8-056ff128c154)
-Budget Planner: 👉 [Visit Site](https://github.com/user-attachments/assets/bcc8eb29-1418-4d93-b268-6bd3c051d91a)
-Variance Report: 👉 [Visit Site](https://github.com/user-attachments/assets/d4643819-9ef8-495e-b2aa-f685e37f9e04)
-Time Manager: 👉 [Visit Site](https://github.com/user-attachments/assets/f011623c-f3a7-4769-bd3c-9e3d77f3f62d)
-Calendar View: 👉 [Visit Site](https://github.com/user-attachments/assets/332c2610-53dc-443e-b406-223b8aebbf54)
-Bill Manager: 👉 [Visit Site](https://github.com/user-attachments/assets/df9b237d-84b8-4dae-8228-657f9c465aa8)
-Mindful Meditation: 👉 [Visit Site](https://github.com/user-attachments/assets/746152ee-6d1e-4ffe-83dd-5c8a4406343d)
-Reflection Journal: 👉 [Visit Site](https://github.com/user-attachments/assets/5deab8a3-f332-4d38-9e19-527d4e1f329d)
-Mood Trends: 👉 [Visit Site](https://github.com/user-attachments/assets/1d276d13-14a7-4f86-abb0-bc902fa0934f)
-Apple Shooter: 👉 [Visit Site](https://github.com/user-attachments/assets/d2daed0e-32a7-4d74-8817-7f67c3190bb8)
-Profile Settings: 👉 [Visit Site](https://github.com/user-attachments/assets/f3a3cfd5-0a62-46b2-8838-b08001de46e0)
-```
+👉 [Settings](https://github.com/user-attachments/assets/e220bfb8-0526-4994-97a8-056ff128c154/)
+
+👉 [Budget Planner](https://github.com/user-attachments/assets/bcc8eb29-1418-4d93-b268-6bd3c051d91a)
+
+👉 [Variance Report](https://github.com/user-attachments/assets/d4643819-9ef8-495e-b2aa-f685e37f9e04)
+
+👉 [Time Manager](https://github.com/user-attachments/assets/f011623c-f3a7-4769-bd3c-9e3d77f3f62d)
+
+👉 [Calendar View](https://github.com/user-attachments/assets/332c2610-53dc-443e-b406-223b8aebbf54)
+
+👉 [Bill Manager](https://github.com/user-attachments/assets/df9b237d-84b8-4dae-8228-657f9c465aa8)
+
+👉 [Mindful Meditation](https://github.com/user-attachments/assets/746152ee-6d1e-4ffe-83dd-5c8a4406343d)
+
+👉 [Reflection Journal](https://github.com/user-attachments/assets/5deab8a3-f332-4d38-9e19-527d4e1f329d)
+
+👉 [Mood Trends](https://github.com/user-attachments/assets/1d276d13-14a7-4f86-abb0-bc902fa0934f)
+
+👉 [Apple Shooter](https://github.com/user-attachments/assets/d2daed0e-32a7-4d74-8817-7f67c3190bb8)
+
+👉 [Profile Settings](https://github.com/user-attachments/assets/f3a3cfd5-0a62-46b2-8838-b08001de46e0)
 
 ## 📷 Screenshots
 
@@ -164,9 +173,9 @@ This project is part of a broader commitment to inclusive software — where emo
 - No external APIs are required — the app runs fully offline
 
 ---
-# **🪪 Stage 8: Licence and Contribution**
+# **🔑 Stage 8: Licence and Contribution**
 
-## 🪪 Licence
+## 🔑 Licence
 
 This project is released under the MIT Licence.  
 Feel free to fork, adapt, and build upon it.
