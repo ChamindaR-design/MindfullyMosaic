@@ -95,27 +95,27 @@ This stack was chosen to keep the app fully offline, lightweight, and easy to ru
 
 ## 📷 Screenshots & UI Overview
 
-👉 [Settings](https://github.com/user-attachments/assets/e220bfb8-0526-4994-97a8-056ff128c154/)
+👉 [Settings](https://github.com/user-attachments/assets/e220bfb8-0526-4994-97a8-056ff128c154/) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Budget Planner](https://github.com/user-attachments/assets/bcc8eb29-1418-4d93-b268-6bd3c051d91a)
+👉 [Budget Planner](https://github.com/user-attachments/assets/bcc8eb29-1418-4d93-b268-6bd3c051d91a) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Variance Report](https://github.com/user-attachments/assets/d4643819-9ef8-495e-b2aa-f685e37f9e04)
+👉 [Variance Report](https://github.com/user-attachments/assets/d4643819-9ef8-495e-b2aa-f685e37f9e04) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Time Manager](https://github.com/user-attachments/assets/f011623c-f3a7-4769-bd3c-9e3d77f3f62d)
+👉 [Time Manager](https://github.com/user-attachments/assets/f011623c-f3a7-4769-bd3c-9e3d77f3f62d) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Calendar View](https://github.com/user-attachments/assets/332c2610-53dc-443e-b406-223b8aebbf54)
+👉 [Calendar View](https://github.com/user-attachments/assets/332c2610-53dc-443e-b406-223b8aebbf54) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Bill Manager](https://github.com/user-attachments/assets/df9b237d-84b8-4dae-8228-657f9c465aa8)
+👉 [Bill Manager](https://github.com/user-attachments/assets/df9b237d-84b8-4dae-8228-657f9c465aa8) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Mindful Meditation](https://github.com/user-attachments/assets/746152ee-6d1e-4ffe-83dd-5c8a4406343d)
+👉 [Mindful Meditation](https://github.com/user-attachments/assets/746152ee-6d1e-4ffe-83dd-5c8a4406343d) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Reflection Journal](https://github.com/user-attachments/assets/5deab8a3-f332-4d38-9e19-527d4e1f329d)
+👉 [Reflection Journal](https://github.com/user-attachments/assets/5deab8a3-f332-4d38-9e19-527d4e1f329d) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Mood Trends](https://github.com/user-attachments/assets/1d276d13-14a7-4f86-abb0-bc902fa0934f)
+👉 [Mood Trends](https://github.com/user-attachments/assets/1d276d13-14a7-4f86-abb0-bc902fa0934f) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Apple Shooter](https://github.com/user-attachments/assets/d2daed0e-32a7-4d74-8817-7f67c3190bb8)
+👉 [Apple Shooter](https://github.com/user-attachments/assets/d2daed0e-32a7-4d74-8817-7f67c3190bb8) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
-👉 [Profile Settings](https://github.com/user-attachments/assets/f3a3cfd5-0a62-46b2-8838-b08001de46e0)
+👉 [Profile Settings](https://github.com/user-attachments/assets/f3a3cfd5-0a62-46b2-8838-b08001de46e0) _(opens in same tab — use Ctrl+Click to open in new tab)_
 
 ## 📷 Screenshots
 
